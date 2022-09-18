@@ -1,0 +1,21 @@
+.navbar{
+    position: relative;
+    display: flex;
+    gap: 20px;
+    background-color: rgb(52, 58, 64);
+    height: 58px;
+    border-radius: 6px;
+    width: 74.72%;
+    left: 12.63%;
+    margin-bottom: 24px;
+    color: white;
+    padding-left: 20px;
+}
+.navbtn{
+    justify-content: space-between;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}

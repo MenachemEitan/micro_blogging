@@ -1,0 +1,26 @@
+.usrespage{
+    position: relative;
+    left: 25.48%;
+    color: white;
+    display: flex;
+    flex-direction: column ;
+    width: 41.66%;
+    justify-items: left;
+    align-items: flex-start;
+}
+.userInput{
+    width: 100%;
+    height: 7%;
+    border-radius: 6px;
+    background-color:  #15202b;
+    border-color: wheat;
+    box-shadow: none;
+    color: white;
+}
+.btnLine{
+    width: 100%;
+    display: flex;
+    justify-items: right;
+    align-items: flex-end;
+    margin-top: 15px;
+}

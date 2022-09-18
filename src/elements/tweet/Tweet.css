@@ -1,0 +1,32 @@
+.Tweet{
+    background-color:rgba(52, 58, 64, 1);
+    margin-top: 15PX;
+    border-radius: 6PX;
+    padding: 20px;
+    color: #FFFFFF;
+    font-family:Roboto ;
+    font-style:normal;
+    height:100px;
+    overflow-wrap: break-word;
+    
+
+    
+    
+}
+.Tweet>header{
+    display: flex;
+    justify-content: space-between;
+    color:rgba(108, 117, 125, 1) ;
+}
+.imgAndName{
+    display: flex;
+    flex-direction:row;
+}
+img{
+    border-radius: 50%;
+}
+.divtext{
+    white-space: pre;
+    overflow-wrap: break-word;
+}
+

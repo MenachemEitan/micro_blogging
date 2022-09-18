@@ -1,0 +1,47 @@
+.Addtweet {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 2.5fr 7fr 2.5fr;
+    border: 2px rgba(204, 204, 204, 1) ;
+    border-radius: 6px;
+    /* margin-top: 40px; */
+    
+}
+.AddTweetTextarea {
+    background-color: #15202b;
+    width: 98%;
+    border: none;
+    resize: none;
+    color: white;
+    margin: 1px;
+    border-radius: 6px;
+}
+.AddtweetBlock{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(204, 204, 204, 1);
+    border-radius: 6px;
+    padding: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.maxCharMass{
+    padding: 2px;
+    background-color:rgba(245, 198, 203, 1) ;
+    border-radius: 2px;
+}
+.btn{
+    background-color: rgba(0, 123, 255);
+    color:#FFFFFF ;
+    border: none;
+    border-radius: 2px;
+    padding: 4px;
+}
+.btn:disabled{
+  border: 1px solid #999999;
+  background-color: rgba(10, 78, 149);
+  color: #666666;
+}
+

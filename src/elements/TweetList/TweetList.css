@@ -1,0 +1,15 @@
+.tweetList{
+    height: 100%;
+    display: grid;
+    grid-template-columns: 2.5fr 7fr 2.5fr;
+    /* max-width: 58%; */
+    /* position: relative; */
+    /* left: 21.25%; */
+    /* grid-template-rows: auto; */
+    /* display: grid; */
+    
+}
+/* .listofTweets{
+    display: grid;
+    grid-template-columns: auto;
+} */
